@@ -8,5 +8,9 @@ class Circle {
     this.area = Math.PI * radius * radius;
   }
 
+  get diameter() {
+    
+  }
+
 
 }

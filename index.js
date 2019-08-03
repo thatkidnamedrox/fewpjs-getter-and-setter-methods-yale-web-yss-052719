@@ -4,8 +4,8 @@ class Circle {
   constructor(radius) {
     this.radius = radius
     this.diameter = radius * 2;
-    this.circumference =
-    this.area = 2 * Math.PI * radius;
+    this.circumference = 2 * Math.PI * radius;
+    this.area = Math.PI * radius * radius;
   }
 
 

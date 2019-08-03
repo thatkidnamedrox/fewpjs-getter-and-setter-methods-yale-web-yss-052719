@@ -5,6 +5,6 @@ class Circle {
     this.radius = radius
     this.diameter = radius * 2;
   }
-  
+
 
 }
